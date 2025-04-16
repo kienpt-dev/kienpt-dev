@@ -6,7 +6,7 @@
 ### 🙇🏻 Information
 <br/><br/>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-![GitHub followers](https://img.shields.io/github/followers/ptkien-hd?label=Follow&style=social)
+![GitHub followers](https://img.shields.io/github/followers/kienpt-dev?label=Follow&style=social)
 [![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://phantrungkien.info/)](https://phantrungkien.info/)
 <p>
 <br/><i>• Have knowledge on software development projects (full project cycle, including: initiating, planning, executing, monitoring, controlling, testing and closure phases).</i>
@@ -25,12 +25,12 @@
   <tr style="border: none;">
     <td style="border: none; width: 50%;">
       <a href="#">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=ptkien-hd&theme=react-dark&bg_color=131842&hide_border=true&line=E68369&color=FFF7FC"/>
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=kienpt-dev&theme=react-dark&bg_color=131842&hide_border=true&line=E68369&color=FFF7FC"/>
       </a>
     </td>
     <td style="border: none; width: 50%;">
       <a href="#">
-        <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ptkien-hd" width="100%" style="display: block;" />
+        <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kienpt-dev" width="100%" style="display: block;" />
       </a>
     </td>
   </tr>
