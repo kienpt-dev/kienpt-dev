@@ -143,8 +143,5 @@
 </table>
 
 <hr>
-Like My Work?
-
-<a href="https://www.buymeacoffee.com/ptkien" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60px" width="217px" ></a>
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=100&section=footer&fontSize=90)
