@@ -162,10 +162,10 @@ public class Me extends Human implements Developer, Dreamer {
   </tr>
 </table>
 
-<table border="0" cellpadding="5" cellspacing="0" width="200">
+<table border="0" cellpadding="5" cellspacing="0" width="100">
     <tr>
       <td align="center">
-        <img src="./img/tft.png" alt="Thôi Để Tao #kien" width="180" height="220">
+        <img src="./img/tft.png" alt="Thôi Để Tao #kien" width="80" height="80">
       </td>
     </tr>
     <tr>
