@@ -20,12 +20,12 @@
 
 
 
-### 🙇🏻 Information
-
-<br/><br/>
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+### 🙇🏻 Information <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 ![GitHub followers](https://img.shields.io/github/followers/kienpt-dev?label=Follow&style=social)
 [![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://phantrungkien.info/)](https://phantrungkien.info/)
+
+<br/><br/>
+
 <p>
 <br/><i>• Have knowledge on software development projects (full project cycle, including: initiating, planning, executing, monitoring, controlling, testing and closure phases).</i>
 <br/><i>• Hard work - progressive - eager.</i>
