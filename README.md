@@ -57,7 +57,7 @@ public class Me extends Human implements Developer, Dreamer {
 
 
 ### Tools, languages, and other things that I like to work with.
-<img align='left' src="./img/pacman.gif">
+<img align='left' src="./img/pacman.gif" height="20">
 <br/><br/>
 <table style="background: white">
   <tr>
