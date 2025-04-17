@@ -17,6 +17,9 @@
 <img alt="NodeJS" src="https://img.shields.io/badge/Node.js-5FA04E.svg?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
 <img alt="Python" src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white"/>
 </h3>
+
+
+
 ### 🙇🏻 Information
 
 <br/><br/>
@@ -39,7 +42,14 @@
  <a href="#">
    <img src="https://github-readme-activity-graph.vercel.app/graph?username=kienpt-dev&theme=react-dark&bg_color=131842&hide_border=true&line=E68369&color=FFF7FC"/>
  </a>
+
+<br/>
+<br/>
 <h2 align="left" id="macropower-tech">Favorite Tech</h2>
+<br/>
+
+
+
 ### Tools, languages, and other things that I like to work with.
 <br/><br/>
 <table style="background: white">
