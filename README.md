@@ -28,28 +28,40 @@
 [![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://phantrungkien.info/)](https://phantrungkien.info/)
 
 ```java
-#monkindey { 
-  position: Hángzhōu; 
-  height: 171cm; 
-  display: boy; 
-  background: Tinker Resolver 🔨; 
-  color: yellow 
+public class Me extends Human implements Developer, Dreamer {
+
+    private final String aboutMe = """
+        Have knowledge on software development projects (full project cycle, including: initiating, planning, executing, monitoring, controlling, testing and closure phases) 
+        Hard work - progressive - eager 
+        Strong in research & development, also willing to learn new technologies
+        Logical thinking and solving technical issue independent
+    """;
+    private final String coreCompetencies = """
+        - Offshoring / Outsourcing
+        - Programming/Testing
+        - Requirement/Problem Analysis
+        - Code Quality Assurance
+        - Sharing Knowledge/Learning
+        - Teamwork
+    """;
+
+    public Me() {
+        keepImproving();
+    }
+
+    private void keepImproving() {
+        learn();
+        build();
+        share();
+    }
+
+    private void learn() { /* everything */ }
+    private void build() { /* everything */ }
+    private void share() { /* everything */ }
 }
+
 ```
 
-<p>
-<br/><i>• Have knowledge on software development projects (full project cycle, including: initiating, planning, executing, monitoring, controlling, testing and closure phases).</i>
-<br/><i>• Hard work - progressive - eager.</i>
-<br/><i>• Strong in research & development, also willing to learn new technologies.</i>
-<br/><i>• Logical thinking and solving technical issue independent.</i>
-<br/><br/><b>Core Competencies</b>
- <br/><i>• Offshoring / Outsourcing</i>
- <br/><i>• Programming/Testing</i>
- <br/><i>• Requirement/Problem Analysis</i>
- <br/><i>• Code Quality Assurance </i>
- <br/><i>• Sharing Knowledge/Learning</i>
- <br/><i>• Teamwork</i>
- </p>
  <a href="#">
    <img src="https://github-readme-activity-graph.vercel.app/graph?username=kienpt-dev&theme=react-dark&bg_color=131842&hide_border=true&line=E68369&color=FFF7FC"/>
  </a>
