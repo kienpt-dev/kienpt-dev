@@ -54,13 +54,10 @@ public class Me extends Human implements Developer, Dreamer {
  </a>
 
 <br/>
-<br/>
-<h2 align="left" id="macropower-tech">Favorite Tech</h2>
-<br/>
-
 
 
 ### Tools, languages, and other things that I like to work with.
+<img align='left' src="./img/pacman.gif">
 <br/><br/>
 <table style="background: white">
   <tr>
