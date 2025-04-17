@@ -31,10 +31,11 @@
 public class Me extends Human implements Developer, Dreamer {
 
     private final String aboutMe = """
-        Have knowledge on software development projects (full project cycle, including: initiating, planning, executing, monitoring, controlling, testing and closure phases) 
-        Hard work - progressive - eager 
-        Strong in research & development, also willing to learn new technologies
-        Logical thinking and solving technical issue independent
+        - Have knowledge on software development projects 
+          (full project cycle, including: initiating, planning, executing, monitoring, controlling, testing and closure phases) 
+        - Hard work - progressive - eager 
+        - Strong in research & development, also willing to learn new technologies
+        - Logical thinking and solving technical issue independent
     """;
     private final String coreCompetencies = """
         - Offshoring / Outsourcing
@@ -44,20 +45,6 @@ public class Me extends Human implements Developer, Dreamer {
         - Sharing Knowledge/Learning
         - Teamwork
     """;
-
-    public Me() {
-        keepImproving();
-    }
-
-    private void keepImproving() {
-        learn();
-        build();
-        share();
-    }
-
-    private void learn() { /* everything */ }
-    private void build() { /* everything */ }
-    private void share() { /* everything */ }
 }
 
 ```
