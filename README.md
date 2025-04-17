@@ -22,21 +22,9 @@
  <br/><i>• Sharing Knowledge/Learning</i>
  <br/><i>• Teamwork</i>
  </p>
-<table style="border-collapse: collapse; width: 100%; border: none;">
-  <tr style="border: none;">
-    <td style="border: none; width: 50%;">
-      <a href="#">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=kienpt-dev&theme=react-dark&bg_color=131842&hide_border=true&line=E68369&color=FFF7FC"/>
-      </a>
-    </td>
-    <td style="border: none; width: 50%;">
-      <a href="#">
-        <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kienpt-dev" width="100%" style="display: block;" />
-      </a>
-    </td>
-  </tr>
-</table>
-
+ <a href="#">
+   <img src="https://github-readme-activity-graph.vercel.app/graph?username=kienpt-dev&theme=react-dark&bg_color=131842&hide_border=true&line=E68369&color=FFF7FC"/>
+ </a>
 <h2 align="left" id="macropower-tech">Favorite Tech</h2>
 ### Tools, languages, and other things that I like to work with.
 <br/><br/>
