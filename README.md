@@ -27,12 +27,13 @@
   <a href="https://edu.google.accredible.com/1b583b8b-8ae7-4028-9901-f54856c5e302#acc.O6y43bdn">
     <img src="./img/us.png" width="150" />
   </a>
-  <br/>
+</p>
+<p align="center">
   <a href="https://edu.google.accredible.com/d11fbbdd-6b06-4c3c-8432-180c43afd68c#acc.JaymoKkW">
     <img src="./img/faculty.png" width="150" />
   </a>
 </p>
-
+<br/>
 ### About
 ![GitHub followers](https://img.shields.io/github/followers/kienpt-dev?label=Follow&style=social)
 [![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://phantrungkien.info/)](https://phantrungkien.info/)
