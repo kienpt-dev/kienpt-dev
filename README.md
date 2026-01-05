@@ -21,6 +21,7 @@
 <br/><br/>
 
 
+[![Gemini Certified Educator](./img/educator.png)](https://edu.google.accredible.com/de3b3c66-f011-49c8-b6b1-a31db7fa490b#acc.8T9C7rhn)
 
 ### About
 ![GitHub followers](https://img.shields.io/github/followers/kienpt-dev?label=Follow&style=social)
