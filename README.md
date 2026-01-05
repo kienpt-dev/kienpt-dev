@@ -19,7 +19,7 @@
 <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=Docker&logoColor=white"/>
 </h3>
 <br/><br/>
-[![Website Preview]([https://raw.githubusercontent.com/USERNAME/REPO/main/docs/preview.png](https://edu.google.accredible.com/de3b3c66-f011-49c8-b6b1-a31db7fa490b#acc.F6U5Exms))]([https://your-website.com](https://edu.google.accredible.com/de3b3c66-f011-49c8-b6b1-a31db7fa490b#acc.F6U5Exms))
+[![Website Preview](https://edu.google.accredible.com/de3b3c66-f011-49c8-b6b1-a31db7fa490b#acc.F6U5Exms)]([https://your-website.com](https://edu.google.accredible.com/de3b3c66-f011-49c8-b6b1-a31db7fa490b#acc.F6U5Exms))
 
 
 
