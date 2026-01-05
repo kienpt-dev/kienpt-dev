@@ -165,15 +165,15 @@ public class Me extends Human implements Developer, Dreamer {
 ## Certificate
 
 <p align="center">
-  <a href="https://edu.google.accredible.com/de3b3c66-f011-49c8-b6b1-a31db7fa490b#acc.8T9C7rhn">
+  <a href="https://edu.google.accredible.com/de3b3c66-f011-49c8-b6b1-a31db7fa490b#acc.8T9C7rhn" target="_blank">
     <img src="./img/educator.png" width="250" />
   </a>
-  <a href="https://edu.google.accredible.com/1b583b8b-8ae7-4028-9901-f54856c5e302#acc.O6y43bdn">
+  <a href="https://edu.google.accredible.com/1b583b8b-8ae7-4028-9901-f54856c5e302#acc.O6y43bdn" target="_blank">
     <img src="./img/us.png" width="250" />
   </a>
 </p>
 <p align="center">
-  <a href="https://edu.google.accredible.com/d11fbbdd-6b06-4c3c-8432-180c43afd68c#acc.JaymoKkW">
+  <a href="https://edu.google.accredible.com/d11fbbdd-6b06-4c3c-8432-180c43afd68c#acc.JaymoKkW" target="_blank">
     <img src="./img/faculty.png" width="250" />
   </a>
 </p>
