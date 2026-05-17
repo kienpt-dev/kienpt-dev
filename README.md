@@ -32,7 +32,8 @@ public class Me extends Human implements Developer, Dreamer {
 
     private final String aboutMe = """
         - Have knowledge on software development projects 
-          (full project cycle, including: initiating, planning, executing, monitoring, controlling, testing and closure phases) 
+          (full project cycle, including: initiating, planning, executing,
+            monitoring, controlling, testing and closure phases) 
         - Hard work - progressive - eager 
         - Strong in research & development, also willing to learn new technologies
         - Logical thinking and solving technical issue independent
